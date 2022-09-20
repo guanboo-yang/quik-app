@@ -1,6 +1,7 @@
 {
   "name": "my-qwik-basic-starter",
   "description": "Recommended for your first Qwik app",
+  "version": "0.0.1",
   "engines": {
     "node": ">=15.0.0"
   },
